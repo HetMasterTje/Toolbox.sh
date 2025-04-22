@@ -1,0 +1,2 @@
+Cause i am lazy i am leaving this in here
+wget -qO- https://raw.githubusercontent.com/HetMasterTje/Toolbox.sh/main/install_docker.sh | bash
