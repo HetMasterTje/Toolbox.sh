@@ -16,6 +16,7 @@ sed -i 's/buster/bullseye/g' /etc/apt/sources.list.d/*.list || true
 echo "deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription" > /etc/apt/sources.list.d/pve-install-repo.list
 echo "deb http://security.debian.org/debian-security bullseye-security main contrib" > /etc/apt/sources.list.d/debian-security.list
 
+
 # Update and upgrade
 apt update
 apt install -y proxmox-upgrade
