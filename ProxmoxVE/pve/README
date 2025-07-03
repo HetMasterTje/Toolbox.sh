@@ -1,0 +1,2 @@
+bash <(curl -s https://raw.githubusercontent.com/HetMasterTje/Toolbox.sh/refs/heads/main/ProxmoxVE/pve/upgrade-to-proxmox7.sh)
+bash <(curl -s https://raw.githubusercontent.com/HetMasterTje/Toolbox.sh/refs/heads/main/ProxmoxVE/pve/upgrade-to-proxmox8.sh)
